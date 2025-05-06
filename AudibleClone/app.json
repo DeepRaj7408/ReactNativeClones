@@ -28,7 +28,7 @@
         "android.permission.RECORD_AUDIO",
         "android.permission.MODIFY_AUDIO_SETTINGS"
       ],
-      "package": "com.vadinsavin.AudibleClone"
+      "package": "com.dee2005p.AudibleClone"
     },
     "web": {
       "favicon": "./assets/favicon.png",
